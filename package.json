@@ -1,0 +1,23 @@
+{
+  "name": "joes_crud",
+  "version": "1.0.0",
+  "description": "Tutor Joes Crud Node.js Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tutor Joes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "dotenv": "^12.0.4",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "keywords": []
+}
